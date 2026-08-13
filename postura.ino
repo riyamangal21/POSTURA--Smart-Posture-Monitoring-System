@@ -2,7 +2,7 @@
 #include "ThingSpeak.h"
 #include <Wire.h>
 
-// Wi-Fi credentials — do not publish real credentials
+// Wi-Fi credentials 
 const char* ssid = "YOUR_WIFI_SSID";
 const char* password = "YOUR_WIFI_PASSWORD";
 
