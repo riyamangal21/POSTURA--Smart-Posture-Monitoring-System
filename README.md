@@ -108,3 +108,32 @@ The long-term vision of POSTURA is to evolve from a simple posture-correction de
 ## Disclaimer
 
 POSTURA is a prototype and wellness-monitoring concept. It is not intended to diagnose, treat, or prevent medical conditions.
+
+# POSTURA — Smart Posture Monitoring & Wellness System
+
+An IoT-based wearable system designed to help users monitor their posture in real time, receive corrective alerts, and track posture patterns over time.
+
+## Future Development
+
+...
+
+## Disclaimer
+
+...
+
+## Project Screenshots
+
+### 1. Wearable Posture Device Prototype
+<img src="wearable_posture_device_prototype.jpg" width="700">
+
+### 2. Real-Time Posture Monitoring
+<img src="real_time_posture_monitoring.jpg" width="700">
+
+### 3. Posture Monitoring Dashboard
+<img src="posture_monitoring_dashboard.jpg" width="700">
+
+### 4. Posture Data Analytics
+<img src="posture_data_analytics.jpg" width="700">
+
+### 5. Posture Trend and Status Timeline
+<img src="posture_trend_and_status_timeline.jpg" width="700">
