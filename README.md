@@ -71,6 +71,20 @@ Historical Tracking
 - Mobile Dashboard
 - Data Monitoring and Visualization
 
+- ## Source Code
+
+The ESP32 firmware is provided in [POSTURA.ino](POSTURA.ino).
+
+The code implements:
+
+- MPU6050-based posture sensing
+- Pitch-angle calculation
+- Good/bad posture classification
+- Real-time buzzer alerts
+- Wi-Fi connectivity
+- ThingSpeak data transmission
+- Posture status monitoring
+
 ## Product Perspective
 
 The project was approached not only as a hardware prototype but also as a user-focused product concept.
