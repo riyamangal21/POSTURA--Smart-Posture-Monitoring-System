@@ -73,7 +73,7 @@ Historical Tracking
 
 - ## Source Code
 
-The ESP32 firmware is provided in [POSTURA.ino](POSTURA.ino).
+The ESP32 firmware is provided in [postura.ino](postura.ino).
 
 The code implements:
 
